@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LinkedListV2
+﻿namespace LinkedListV2
 {
     /// <summary>
     /// Khai bao rang class Node thuoc kieu generic

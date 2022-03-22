@@ -5,6 +5,8 @@ linkedListV2.AddNode(new Node<float>(3));
 linkedListV2.AddNode(new Node<float>(4));
 linkedListV2.AddNode(new Node<float>(5));
 
+LinkedListV2<SinhVien> dannhsachsinhvien = new LinkedListV2<SinhVien>();
+
 
 for (Node<float> p = linkedListV2.PHead; p != null; p = p.PNext)
 {
